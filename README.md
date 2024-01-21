@@ -2,6 +2,12 @@
 # Курс по углубленному Python от Vk осень 2023-зима 2024
 
 ---
+## **Стэк**:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
 
 ## Темы: 
 
@@ -26,3 +32,4 @@
 
 ### Каждый проект сопровождается makefile и написанными unittest для него и прогоняется через линтер pylint и black 
 - Подробнее можно ознакомится в самих папках проектов
+
